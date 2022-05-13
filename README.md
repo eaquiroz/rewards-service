@@ -29,9 +29,9 @@ mvn clean test
 
 ## Consuming the API
 
-	Application will be accessible on localhost:8080. End-point /rewards/{userId} exposed.
+	Application will be accessible on localhost:8085. End-point /rewards/{userId} exposed.
 
-	API GET Method : http://localhost:8080/rewards/john
+	API GET Method : http://localhost:8085/rewards/john
 
 	Success response :- {
 		"name": "John Smith",
